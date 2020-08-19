@@ -1,4 +1,9 @@
-### Hi there 👋
+### Grüezi wohl
+
+Welcome to my profile.
+
+I am a student still learning the ways of a programmer. I hope that I soon will be able to show some work of mine here.
+Feel free to send me a message if you want, I hope that I'll see it.
 
 <!--
 **K-Trout/K-Trout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
