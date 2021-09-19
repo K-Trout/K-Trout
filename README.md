@@ -2,7 +2,7 @@
 
 Welcome to my profile.
 
-I am a student still learning the ways of a programmer. I hope that I soon will be able to show some work of mine here.
+I'm a Informatiker EFZ (API), continuing to study computer science.
 Feel free to send me a message if you want, I hope that I'll see it.
 
 <!--
