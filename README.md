@@ -2,7 +2,7 @@
 
 Welcome to my profile.
 
-I'm an Informatiker EFZ (API) as of 2021. Now I am studying computer science.
+I'm an Informatiker EFZ (API) as of 2021. Now I am studying computer science at BFH.
 Feel free to send me a message if you want, I hope that I'll see it.
 
 <!--
